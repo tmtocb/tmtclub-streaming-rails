@@ -18,6 +18,7 @@ group :development, :test do
   gem 'binding_of_caller'
   gem 'rspec-rails', '~> 4.0.2'
   gem 'factory_bot_rails'
+  gem 'shoulda-matchers', '~> 4.0'
 end
 
 group :development do
